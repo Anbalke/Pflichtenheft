@@ -1,0 +1,38 @@
+\babel@toc {german}{}
+\contentsline {chapter}{\numberline {1}Zielbestimmung}{4}%
+\contentsline {section}{\numberline {1.1}Musskriterien}{4}%
+\contentsline {section}{\numberline {1.2}Wunschkriterien}{5}%
+\contentsline {section}{\numberline {1.3}Abgrenzungskriterien}{5}%
+\contentsline {chapter}{\numberline {2}Projektmanagement}{6}%
+\contentsline {chapter}{\numberline {3}Produkteinsatz}{8}%
+\contentsline {section}{\numberline {3.1}Anwendungsbereiche}{8}%
+\contentsline {section}{\numberline {3.2}Zielgruppe}{8}%
+\contentsline {section}{\numberline {3.3}Betriebsbedingungen}{8}%
+\contentsline {chapter}{\numberline {4}Produktumgebung}{9}%
+\contentsline {section}{\numberline {4.1}Software}{9}%
+\contentsline {section}{\numberline {4.2}Hardware}{9}%
+\contentsline {section}{\numberline {4.3}Orgware}{10}%
+\contentsline {chapter}{\numberline {5}Produktfunktionen}{11}%
+\contentsline {section}{\numberline {5.1}Anonymer Benutzer}{11}%
+\contentsline {section}{\numberline {5.2}Mitarbeiter, Dozenten, Studenten der htw saar als Benutzerrolle}{11}%
+\contentsline {subsection}{\numberline {5.2.1}Anzeige und Navigation}{11}%
+\contentsline {subsection}{\numberline {5.2.2}Buchung von Spaces / Räumen}{11}%
+\contentsline {subsection}{\numberline {5.2.3}Stornierung von Buchungen}{12}%
+\contentsline {subsection}{\numberline {5.2.4}Personenbezogene Daten}{12}%
+\contentsline {subsection}{\numberline {5.2.5}Anmeldung folgender personenbezogener Daten}{12}%
+\contentsline {section}{\numberline {5.3}Benutzer mit erweiterten Rechten (Admin)}{12}%
+\contentsline {section}{\numberline {5.4}Spaces}{13}%
+\contentsline {subsection}{\numberline {5.4.1}Anzeige}{13}%
+\contentsline {chapter}{\numberline {6}Produktdaten}{14}%
+\contentsline {chapter}{\numberline {7}Produkt - Leistungen}{15}%
+\contentsline {chapter}{\numberline {8}Benutzeroberfläche}{16}%
+\contentsline {chapter}{\numberline {9}Qualitäts- und Zielbestimmung}{21}%
+\contentsline {chapter}{\numberline {10}Globale Testszenarien und Testfälle}{22}%
+\contentsline {chapter}{\numberline {11}Entwicklungsumgebung}{23}%
+\contentsline {section}{\numberline {11.1}Software}{23}%
+\contentsline {section}{\numberline {11.2}Hardware}{23}%
+\contentsline {section}{\numberline {11.3}Orgware}{23}%
+\contentsline {chapter}{\numberline {12}Ergänzungen}{24}%
+\vspace *{\baselineskip }
+\contentsline {chapter}{Abbildungsverzeichnis}{25}%
+\contentsline {chapter}{Tabellenverzeichnis}{26}%
